@@ -1,4 +1,4 @@
-# A EXECUTER SOUS ROOT
+# A EXECUTER SOUS ROOT (bash DockerPortainer_Debian12.sh)
 
 # Ajout de la clé GPG de Docker :
 apt update
